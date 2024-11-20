@@ -1,4 +1,7 @@
-These are the common git commands along with their description:
+** These are the common git commands along with their description:**
+
+// The commands are:
+
 git init	Initialize a local Git repository
 git clone ssh://git@github.com/[username]/[repository-name].git	Create a local copy of a remote repository
 
