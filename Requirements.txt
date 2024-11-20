@@ -1,1 +1,4 @@
 The documentations required for learning git commands
+1. https://git-scm.com/downloads/win
+2. https://git-scm.com/docs
+3. https://git-scm.com/docs/git
